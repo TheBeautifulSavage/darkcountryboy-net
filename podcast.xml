@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>Dark Country Boy</title>
+  <description>70 albums, 1,481 songs of dark country, outlaw Americana, and dark blues. Independent artist. Stream free on Spotify and Apple Music at darkcountryboy.net</description>
+  <link>https://darkcountryboy.net</link>
+  <language>en-us</language>
+  <atom:link href="https://darkcountryboy.net/podcast.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>Dark Country Boy</itunes:author>
+  <itunes:category text="Music"/>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="https://darkcountryboy.net/cover.jpg"/>
+  <image>
+    <url>https://darkcountryboy.net/cover.jpg</url>
+    <title>Dark Country Boy</title>
+    <link>https://darkcountryboy.net</link>
+  </image>
+    <item>
+      <title>13th Gator of the Apocalypse</title>
+      <description>Dark Country Boy — 13th Gator of the Apocalypse. Stream free on Spotify and Apple Music.</description>
+      <enclosure url="https://archive.org/download/10th-album-dark-country/13th%20Gator%20of%20the%20Apocalypse.wav" type="audio/wav"/>
+      <guid isPermaLink="false">dcb-10th-album-dark-country-1</guid>
+      <itunes:author>Dark Country Boy</itunes:author>
+      <itunes:duration>3:00</itunes:duration>
+    </item>
+    <item>
+      <title>Backseat Gator, Frontseat Sin</title>
+      <description>Dark Country Boy — Backseat Gator, Frontseat Sin. Stream free on Spotify and Apple Music.</description>
+      <enclosure url="https://archive.org/download/10th-album-dark-country/Backseat%20Gator,%20Frontseat%20Sin.wav" type="audio/wav"/>
+      <guid isPermaLink="false">dcb-10th-album-dark-country-2</guid>
+      <itunes:author>Dark Country Boy</itunes:author>
+      <itunes:duration>3:00</itunes:duration>
+    </item>
+    <item>
+      <title>Chainsmokin’ Albino Gator</title>
+      <description>Dark Country Boy — Chainsmokin’ Albino Gator. Stream free on Spotify and Apple Music.</description>
+      <enclosure url="https://archive.org/download/10th-album-dark-country/Chainsmokin’%20Albino%20Gator.wav" type="audio/wav"/>
+      <guid isPermaLink="false">dcb-10th-album-dark-country-3</guid>
+      <itunes:author>Dark Country Boy</itunes:author>
+      <itunes:duration>3:00</itunes:duration>
+    </item>
+    <item>
+      <title>Crawfish Crown & Alligator Boots</title>
+      <description>Dark Country Boy — Crawfish Crown & Alligator Boots. Stream free on Spotify and Apple Music.</description>
+      <enclosure url="https://archive.org/download/10th-album-dark-country/Crawfish%20Crown%20&%20Alligator%20Boots.wav" type="audio/wav"/>
+      <guid isPermaLink="false">dcb-10th-album-dark-country-4</guid>
+      <itunes:author>Dark Country Boy</itunes:author>
+      <itunes:duration>3:00</itunes:duration>
+    </item>
+    <item>
+      <title>Don't Feed the Gators Meth</title>
+      <description>Dark Country Boy — Don't Feed the Gators Meth. Stream free on Spotify and Apple Music.</description>
+      <enclosure url="https://archive.org/download/10th-album-dark-country/Don't%20Feed%20the%20Gators%20Meth.wav" type="audio/wav"/>
+      <guid isPermaLink="false">dcb-10th-album-dark-country-5</guid>
+      <itunes:author>Dark Country Boy</itunes:author>
+      <itunes:duration>3:00</itunes:duration>
+    </item>
+    <item>
+      <title>Don’t Baptize Me Where the Gators Feed</title>
+      <description>Dark Country Boy — Don’t Baptize Me Where the Gators Feed. Stream free on Spotify and Apple Music.</description>
+      <enclosure url="https://archive.org/download/10th-album-dark-country/Don’t%20Baptize%20Me%20Where%20the%20Gators%20Feed.wav" type="audio/wav"/>
+      <guid isPermaLink="false">dcb-10th-album-dark-country-6</guid>
+      <itunes:author>Dark Country Boy</itunes:author>
+      <itunes:duration>3:00</itunes:duration>
+    </item>
+    <item>
+      <title>Florida Man Rides Again (2)</title>
+      <description>Dark Country Boy — Florida Man Rides Again (2). Stream free on Spotify and Apple Music.</description>
+      <enclosure url="https://archive.org/download/10th-album-dark-country/Florida%20Man%20Rides%20Again%20(2).wav" type="audio/wav"/>
+      <guid isPermaLink="false">dcb-10th-album-dark-country-7</guid>
+      <itunes:author>Dark Country Boy</itunes:author>
+      <itunes:duration>3:00</itunes:duration>
+    </item>
+    <item>
+      <title>Gator Gospel Choir</title>
+      <description>Dark Country Boy — Gator Gospel Choir. Stream free on Spotify and Apple Music.</description>
+      <enclosure url="https://archive.org/download/10th-album-dark-country/Gator%20Gospel%20Choir.wav" type="audio/wav"/>
+      <guid isPermaLink="false">dcb-10th-album-dark-country-8</guid>
+      <itunes:author>Dark Country Boy</itunes:author>
+      <itunes:duration>3:00</itunes:duration>
+    </item>
+    <item>
+      <title>Gator Mafia</title>
+      <description>Dark Country Boy — Gator Mafia. Stream free on Spotify and Apple Music.</description>
+      <enclosure url="https://archive.org/download/10th-album-dark-country/Gator%20Mafia.wav" type="audio/wav"/>
+      <guid isPermaLink="false">dcb-10th-album-dark-country-9</guid>
+      <itunes:author>Dark Country Boy</itunes:author>
+      <itunes:duration>3:00</itunes:duration>
+    </item>
+    <item>
+      <title>Gator Milk Man</title>
+      <description>Dark Country Boy — Gator Milk Man. Stream free on Spotify and Apple Music.</description>
+      <enclosure url="https://archive.org/download/10th-album-dark-country/Gator%20Milk%20Man.wav" type="audio/wav"/>
+      <guid isPermaLink="false">dcb-10th-album-dark-country-10</guid>
+      <itunes:author>Dark Country Boy</itunes:author>
+      <itunes:duration>3:00</itunes:duration>
+    </item>
+    <item>
+      <title>Gator Took My Leg (Now I Limp With Pride)</title>
+      <description>Dark Country Boy — Gator Took My Leg (Now I Limp With Pride). Stream free on Spotify and Apple Music.</description>
+      <enclosure url="https://archive.org/download/10th-album-dark-country/Gator%20Took%20My%20Leg%20(Now%20I%20Limp%20With%20Pride).wav" type="audio/wav"/>
+      <guid isPermaLink="false">dcb-10th-album-dark-country-11</guid>
+      <itunes:author>Dark Country Boy</itunes:author>
+      <itunes:duration>3:00</itunes:duration>
+    </item>
+</channel>
+</rss>
