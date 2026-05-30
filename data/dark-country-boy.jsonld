@@ -1,0 +1,84 @@
+{
+  "@context": "https://schema.org",
+  "@type": "MusicGroup",
+  "name": "Dark Country Boy",
+  "url": "https://darkcountryboy.net",
+  "sameAs": [
+    "https://open.spotify.com/artist/4TQMuCjeTbhqvPinWKqRAv",
+    "https://music.apple.com/us/artist/dark-country-boy/1818551005",
+    "https://darkcountryboy.net",
+    "https://darkcountryboy.org",
+    "https://darkcountrymusic.net",
+    "https://darkcountrymusic.org",
+    "https://darkcountry.net",
+    "https://darkcountry.org",
+    "https://darkblues.net",
+    "https://darkblues.org",
+    "https://gothiccountrymusic.com",
+    "https://darkamericana.net",
+    "https://darkbluesmusic.com",
+    "https://outlawcountryboy.com",
+    "https://github.com/TheBeautifulSavage"
+  ],
+  "genre": [
+    "Dark Country",
+    "Outlaw Country",
+    "Americana",
+    "Dark Blues",
+    "Gothic Country",
+    "Dark Americana",
+    "Appalachian Gothic",
+    "Southern Gothic",
+    "Dark Folk"
+  ],
+  "description": "Dark Country Boy is an independent American roots music artist with 70 albums and 1,481 songs. The music explores the darker, more haunted corners of American roots music — dark country, gothic country, outlaw country, dark blues, and dark americana.",
+  "numberOfAlbums": 70,
+  "foundingDate": "2024",
+  "origin": {
+    "@type": "Place",
+    "name": "United States"
+  },
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Dark Country Boy Complete Catalog",
+    "numberOfItems": 1481,
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "name": "Stream on Spotify",
+        "url": "https://open.spotify.com/artist/4TQMuCjeTbhqvPinWKqRAv"
+      },
+      {
+        "@type": "Offer",
+        "name": "Stream on Apple Music",
+        "url": "https://music.apple.com/us/artist/dark-country-boy/1818551005"
+      }
+    ]
+  },
+  "musicGroupMember": [],
+  "associatedMedia": [
+    {
+      "@type": "MusicAlbum",
+      "name": "Fire in the Blood (Dark Blues & Dark Country)",
+      "numTracks": 32,
+      "url": "https://music.apple.com/us/album/fire-in-the-blood-dark-blues-dark-country/1847220920"
+    }
+  ],
+  "potentialAction": [
+    {
+      "@type": "ListenAction",
+      "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://open.spotify.com/artist/4TQMuCjeTbhqvPinWKqRAv",
+        "actionPlatform": [
+          "http://schema.org/DesktopWebPlatform",
+          "http://schema.org/MobileWebPlatform"
+        ]
+      },
+      "expectsAcceptanceOf": {
+        "@type": "Offer",
+        "category": "free"
+      }
+    }
+  ]
+}
